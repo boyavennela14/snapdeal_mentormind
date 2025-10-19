@@ -36,5 +36,23 @@ Through data cleaning, exploratory data analysis (EDA), and segmentation techniq
 
 ---
 
-## 🗂️ Project Structure
+## 📈 Key Insights  
+
+- Identified top customer segments based on **Recency, Frequency, and Monetary value (RFM)**  
+- Applied **K-Means clustering** for customer segmentation  
+- Visualized patterns using **heatmaps, scatter plots, and bar charts**  
+- Provided **marketing recommendations** to target high-value customers  
+
+---
+
+## 💡 Conclusion  
+
+This project highlights how **data-driven segmentation** can help e-commerce platforms like Snapdeal improve **customer engagement**, **retention**, and **marketing efficiency**.  
+
+---
+
+### 🧾 Author  
+**Boya Vennela**  
+📧 [vennelavalmiki@gmail.com]  
+🔗 [LinkedIn Profile]((https://www.linkedin.com/in/vennela-boya-b12b641a3/)) | [GitHub]((https://github.com/boyavennela14))
 
